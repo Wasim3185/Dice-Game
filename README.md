@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice Game
 ## Output
 ![Dicee Game](https://user-images.githubusercontent.com/106501662/228483370-b150c9fc-d251-4fcf-9cf9-76ce46038580.jpg)
 ### Dice Game, Where 2 players can play and try there luck to win against each other.
