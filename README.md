@@ -7,3 +7,4 @@
 #### 3. Player1 will win game if dice number is greater then player2 dice, and vice-versa for player2.
 #### 4. Game will automatically shows the result when user reload the page.
 #### 5. So what are you waiting for😉 have a play around with your freind and bet him/her with your luck😎.
+## Link:- https://wasim3185.github.io/Dice-Game/
