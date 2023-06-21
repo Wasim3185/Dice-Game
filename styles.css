@@ -54,6 +54,7 @@ button {
   transition: all 0.2s;
   margin: 1.5rem auto 2rem;
   border-bottom: 0px solid #eee;
+  cursor: pointer;
 }
 
 button:active{
