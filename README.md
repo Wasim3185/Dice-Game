@@ -1,6 +1,6 @@
 # Dice Game
 ## Output
-![Dicee Game](https://user-images.githubusercontent.com/106501662/228483370-b150c9fc-d251-4fcf-9cf9-76ce46038580.jpg)
+![image](https://github.com/Wasim3185/Dice-Game/assets/106501662/3df58206-6ccf-4e31-bd47-2b0b9ff8cbb1)
 ### Dice Game, Where 2 players can play and try there luck to win against each other.
 #### 1. When you open the link, page will show "Refresh Me", then reload the page to start.
 #### 2. when you reload everytime it displays other results where player1 can be win either player2 or the game will be draw.
